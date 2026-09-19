@@ -1,5 +1,1 @@
-- 👋 Hi, I’m SilverCri793 or for the friends, Christian
-- 👀 I’m a Discord bot developer
-- 🌱 I’m currently learning: HTML & CSS
-- 📫 You can contact me by adding me on Discord: SilverCri793#3009
-- 🌍 I’m from Sicily (Italy)
+- 📫 You can contact me by adding me on Discord: silvercri793
